@@ -14,6 +14,7 @@
 
 # production
 /build
+pnpm-lock.yaml
 
 # misc
 .DS_Store
@@ -37,3 +38,6 @@ yarn-error.log*
 # public/sitemap.xml
 
 /.firebase
+
+# jetbrains
+.idea
