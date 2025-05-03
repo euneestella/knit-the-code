@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://knit-the-code.vercel.app
+
+# Sitemaps
+Sitemap: https://knit-the-code.vercel.app/sitemap.xml
